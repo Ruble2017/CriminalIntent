@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyCriminalIntent</string>
+    <string name="crime_title_hint">Введите название инциндента</string>
+    <string name="crime_details_label">Подробности</string>
+    <string name="new_crime">Новый инциндент</string>
+    <string name="send_report">Отправить преступление</string>
+    <string name="crime_title_label">Наименование</string>
+    <string name="crime_solved_label">Решено</string>
+    <string name="crime_suspect_text">Выбор подозреваемогог</string>
+    <string name="crime_report_text">Отправить отчет об инцинденте</string>
+    <string name="crime_report_solved">Инциндент исчерпан</string>
+    <string name="crime_report_unsolved">Инциндент не исчерпан</string>
+    <string name="crime_report_no_suspect">нет подозреваемого</string>
+    <string name="crime_report_suspect">подозреваемый %s</string>
+    <string name="crime_report_subject">Описание инциндента</string>
+    <string name="crime_report">%1$s! Инциндент произошел  %2$s. %3$s, and %4$s</string>
+</resources>
